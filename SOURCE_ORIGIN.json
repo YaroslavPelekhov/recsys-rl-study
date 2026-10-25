@@ -207,6 +207,10 @@
     "source": "scripts/download_yambda.py",
     "sha256": "7a59c378725b850928e207b66d2589026aca38bbdc45238e25086edf3530795c"
   },
+  "code/scripts/draw_research_architecture.py": {
+    "source": "scripts/draw_research_architecture.py",
+    "sha256": "57cf0359c571aa61cfd92b09324466e8b0dabbee2e76ef6766e964992c6360d2"
+  },
   "code/scripts/evaluate_task2.py": {
     "source": "scripts/evaluate_task2.py",
     "sha256": "aeb5dd9c95bcf9bd7f5bde1e00d39d1942781efae370ac59d7ee84f45e1397f9"
@@ -929,7 +933,7 @@
   },
   "code/paper/task2/evidence/release.json": {
     "source": "paper/task2/evidence/release.json",
-    "sha256": "566069ea388baf2b49ccc9fb104b8aafc1e70e4e1deb66bbb69f467cf96aff7d"
+    "sha256": "6139da7503c1cf093bf883089accf287430d19f2df8615be9364cfa37fb14f07"
   },
   "code/paper/task2/figures/reward_audit.pdf": {
     "source": "paper/task2/figures/reward_audit.pdf",
@@ -993,7 +997,7 @@
   },
   "code/paper/task2b/evidence/release.json": {
     "source": "paper/task2b/evidence/release.json",
-    "sha256": "98a3b9dd436c623d1401b1ef3ebaf79504204829f469ce10177c9242bce6b739"
+    "sha256": "b1748bed681a1bf4183e3979a762da6a7949c9c4418d845f209fa83d48ad6056"
   },
   "code/paper/task2b/figure_inputs.json": {
     "source": "paper/task2b/figure_inputs.json",
@@ -1114,5 +1118,17 @@
   "code/output/pdf/task2-final-build.json": {
     "source": "output/pdf/task2-final-build.json",
     "sha256": "71903fee19e83abb5f926acd145caf3b89d8b5c6d181a2a26fa8d205837555fb"
+  },
+  "assets/architecture.pdf": {
+    "source": "runs/editorial-assets/task2/architecture.pdf",
+    "sha256": "bedad64b993124717caa87039a172b4a42b24bc9a1c0437e2a0c917b3d524296"
+  },
+  "assets/architecture.svg": {
+    "source": "runs/editorial-assets/task2/architecture.svg",
+    "sha256": "1f1b60129fff5cd8eeb46ec43db116834ef2eaca6a11a2f9333b64c7d61a28d3"
+  },
+  "assets/architecture.png": {
+    "source": "runs/editorial-assets/task2/architecture.png",
+    "sha256": "5ab6cbfa4062feef20bb55c286620bc9d4a21f90eb11e019047df61ceb8211e2"
   }
 }

@@ -4,5 +4,6 @@
   "pages": 5,
   "paper_sha256": "fefef1574b381c0d0751eabf930c3cc66514fe391ee1636b1317aaee5b74ebc2",
   "latex_main": "paper/submission_task2/article.tex",
-  "no_new_experiments": true
+  "no_new_experiments": true,
+  "presentation_updated": "2026-10-25"
 }
