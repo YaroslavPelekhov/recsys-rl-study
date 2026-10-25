@@ -1,0 +1,58 @@
+{
+  "sources": {
+    "README.md": "85e82a75cf6df2be381cfbb2236837baf86ef62543616eb546a7250a76af0dcf",
+    "AGENTS.md": "fb94ddc56be4e066fb84a6d208bac9e4bddf997ce51d426e63f18d841753d702",
+    "pyproject.toml": "c28e30a09f2ba29a790d8a0b723d46bb8fb9ce221a94f97f6c9db0c61b3f7865",
+    "uv.lock": "f3f8d5ecc07f1628b6c6368bdc4a8a69e59e4514b09de5108a247531edee2e88",
+    ".gitattributes": "55fa431f8bba89bbf59e320f1487d3d566025e51831cfb24c85f04e0edd4a921",
+    ".github/workflows/tests.yml": "35ff09ce2f1372d7ac25c4246ce69d7b1445aa5e8ff2f607e58de35a056d2891",
+    "reports/task2b/REPORT.md": "44b10ac57e80c13a847426644ef57c46daca591737cf0f8e1ca87b3647671b8e",
+    "reports/task2b/RESULTS.md": "5f3c01fa62d2c38932d9867408d353349600d216e19b09e04499c78e4ad18620",
+    "src/rec/task2b.py": "15fd61c2a41a7c6b0cbf90af012f5e4671e5fa03de2eab018d365e6f272090e0",
+    "scripts/analyze_task2b.py": "109a9feb04ec9b11493393761919619a734c1e62cf664b62c5e1b44a32e62c30",
+    "scripts/audit_task2b.py": "16567f95e9ab6d7671dea77074dbf996685bd9872faaf136141b95a9d8feb954",
+    "scripts/build_task2b_paper.py": "d3c48df7f957e771a60af79de5bd61347cddd7a59e04f1afea3dc79402426d5b",
+    "scripts/check_task2b_release.py": "071feed5e4498a21aad6fb44ca466f51f16d5a15e98e58d6d40ba159226d8f7a",
+    "scripts/evaluate_task2b.py": "7799079af4df23d1aba04820b53f5e9b2f84890ea56d0e9867d859362d741cf9",
+    "scripts/package_task2b.py": "46e48583e665335bbc956366c03fc75097a8639ead038746c538d0ebe5a23753",
+    "scripts/publish_task2b.py": "ca075196aa7afecbf6248efb7f5a0c1591b8f1d9a2fea8e231c38193b15608e7",
+    "scripts/research_task2b.py": "13e11697e53eef76067768f236de3a79f98dbc1548cc8814c368fd7a20115172",
+    "scripts/task2b_reward_controls.py": "96b094f8f45494a179e8c7b1aa3043d9e586871b4cf6f4b953c359baf52509fd",
+    "scripts/verify_task2b.py": "18f31fdb38a6dceccaf72739bdfbaf398f5bea082c62adf342e657dca72a3c78",
+    "tests/test_task2b.py": "1546c815bedd6e962258fa92c54262bfadffc01ecd9c23b4038c3962df1ca1be",
+    "tests/test_task2b_release.py": "7ab274d4ff9c6549f22483d8cc6c4c4416d13be019bd901f57b5e914723f129f",
+    "docs/TASK2B_PROTOCOL.md": "c231003fc1efc576d70933a065d152c04e8869a201c33b21bc18d9c6904be86e",
+    "docs/TASK2B_REPRODUCE.md": "dc8b7c5d202ba226e4ca475a061e153f83fbe7d94cf6636269dd9d92f5e39384",
+    "paper/task2b/article.tex": "d17a93ee42a6903cba9108166437d70798eb4b76a61a275bfc33d126f6fa5b56",
+    "paper/task2b/figure_inputs.json": "e59ea6010c2e9e3286966523c5a6ee83e45ae7f91b5331eee17ceeb5987435f3",
+    "paper/task2b/numbers.tex": "b49595dd24524c52975c398ae74c965a0f467bef7d90002562ef7e6229c35e2f",
+    "paper/task2b/OVERLEAF.md": "085e91346e0f8731b62660f884427629f61f4335f0f17cc43ae495af0559a4a8",
+    "paper/task2b/ranking.tex": "961d9611690dca2fa6b7e91f39ffb69f730d811b70380a3f68fb1aba57184289",
+    "paper/task2b/figures/effects.pdf": "5142788a72a94caa11c8b6b615d029fd5d313066148585140e2d8b647a263272",
+    "paper/task2b/figures/effects.png": "c98fb59bf95667476e1f522edc80865d6cca953e929eed0049a9b07d4c639063",
+    "paper/task2b/figures/effects.svg": "29fec3dec63867f6d9971040868cd7c9b1f866c517879cea424ad3e8c53afd75",
+    "paper/task2b/figures/reward.pdf": "dcbf59bf8b5ded5520381c2ab22d23d77dc5f0e3bac934d98df291d7a4f867a8",
+    "paper/task2b/figures/reward.png": "59d3e9bdbcf9dd01ef41e8a2239c5d77d543f6514afd8b65b16309d126b781f8",
+    "paper/task2b/figures/reward.svg": "1db066ab0dbe25c9d00020a3033a3f0ff4955dd0fa63fac5baf2604c1760b494",
+    "paper/task2b/figures/tradeoff.pdf": "652b41eebcfac600dfae3943aee4b4e3d77ccb64420e39fc42eb7dd7c0369165",
+    "paper/task2b/figures/tradeoff.png": "d255a5fab0ff945d579c4396c2b0f9258ea6fd870103fb462e836f20d078fdcc",
+    "paper/task2b/figures/tradeoff.svg": "9f1306f5611bb6e16b0809697ae4f2a387bdad7601841301b0c05b20b5b2efaa"
+  },
+  "pdf_sha256": "3a4653943de6ddb8c2e1609afb07ac514c2bfd451a246f540750799835897579",
+  "verification": {
+    "status": "verified",
+    "queries": 6393,
+    "users": 637,
+    "prediction_arrays": 24,
+    "evidence_files": 53,
+    "primary": {
+      "delta": -9.614263039702136e-05,
+      "ci95": [
+        -0.00016161750984114488,
+        -3.657908078237457e-05
+      ],
+      "users": 637
+    }
+  },
+  "adversarial_test": "tests/test_task2b_release.py rejects modified NDCG after checksum update"
+}

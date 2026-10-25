@@ -1,0 +1,12 @@
+{
+  "n_users": 1500,
+  "sample_seed": 2026,
+  "model_seeds": [17],
+  "iterations": 75,
+  "depths": [5],
+  "search_steps": 1,
+  "search_windows": [3, 10, 21],
+  "search_half_lives": [10],
+  "bootstrap_samples": 500,
+  "threads": 12
+}

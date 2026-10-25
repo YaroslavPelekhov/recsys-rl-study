@@ -1,0 +1,8 @@
+{
+  "users": 256,
+  "resources": {
+    "seconds": 30.7108234000043,
+    "rss_mib_at_end": 1634.984375,
+    "cuda_peak_allocated_mib": 113.95263671875
+  }
+}

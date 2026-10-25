@@ -1,0 +1,42 @@
+{
+  "files": {
+    "runs/task2_final/test_queries.parquet": "d8054f0c1623065054983e7d5fee3bbf4b971b7e4ce5f3c4ad1dbed938bcf138",
+    "runs/task2_final/test_x.npy": "1144cf957e55a74910b66d81dcd93772fd2721df7283f6597359a6717d3b7ad9",
+    "runs/task2_final/test_predictions/anchored_b0.1_h5_17.npz": "b33ecbd35fd22181e7e5187c373f856402479ccbfd1684d392293ca08b138302",
+    "runs/task2_final/test_predictions/anchored_b0.1_h5_42.npz": "b6a41f42c21d6f7982b40cf6b491efeaf1721799fcdd1f4548caf50f267d0aad",
+    "runs/task2_final/test_predictions/anchored_b0.1_h5_73.npz": "ad80bddc50f9aa010606dc5562942ea38213d6ce2bc5103d8f041cfc1f3ad918",
+    "runs/task2_final/test_predictions/ce_17.npz": "3c5e6eb14206664a605c8960a335b29cea5fe67f6d7685d8a22d40c20d3a0cdf",
+    "runs/task2_final/test_predictions/ce_42.npz": "e0707372d7280b3840aa56f162c7b3f6575304cd352dc30b0f3bd68d02e94bd4",
+    "runs/task2_final/test_predictions/ce_73.npz": "07e6e0ba8d411bece05ba3e554ee2145df7080cd39ee7b067162cbea20c246da",
+    "runs/task2_final/test_predictions/ensemble_b0.1_h1_17.npz": "abcbbd3ba2225cbe3425e7f0703e5ae86e8968daed1b1703c3e0282ce182e37b",
+    "runs/task2_final/test_predictions/ensemble_b0.1_h1_42.npz": "e1074a4cdd80398a0906809d39631627706de331f51516adcfcffe29054a559e",
+    "runs/task2_final/test_predictions/ensemble_b0.1_h1_73.npz": "14f5d79777741d421561abe79873bf2af7a5c5cf0bd38abb23cabc6907f92e4c",
+    "runs/task2_final/test_predictions/ensemble_b0.1_h5_17.npz": "f87311f1592233938dc53cdcdae08ef09a43acda91a539bb4a8132826706ee1b",
+    "runs/task2_final/test_predictions/ensemble_b0.1_h5_42.npz": "96386e4194f7f6025c03418789c3cb8e34a457b053670a05a8fa542fb56abf85",
+    "runs/task2_final/test_predictions/ensemble_b0.1_h5_73.npz": "2b08f4fc356953a35c0abf4670385bd3c38be14711467482ea6373de38bd2ea8",
+    "runs/task2_final/test_predictions/markov.npz": "0aca668d82861e45296d20a1b9e1e150dcbfe9546764193f33fb0eb6bc50fa68",
+    "runs/task2_final/test_predictions/popularity.npz": "b9e9a35434b4e13e40684a9a520fe72fa591b48db916041e8609d44dbf94b577",
+    "runs/task2_final/test_predictions/ratio_b0.1_h5_17.npz": "21b4960b4f8d60c250eefbdbe01ebe965df0483797edf57bc759174a51dd8acb",
+    "runs/task2_final/test_predictions/ratio_b0.1_h5_42.npz": "55e65c57ba453505b747c30dbc5c0ae86e47532787fa2b65b1a2ea9199a7967e",
+    "runs/task2_final/test_predictions/ratio_b0.1_h5_73.npz": "bf2d7465820eaabffbc69b6409a1336875c1f66d99954efa647351a7668634bd",
+    "runs/task2_final/test_predictions/repeat.npz": "b1e98bdc8ce5a02f0de97ce75f69883d9438349f7baacf77d2e9ccae1cef39f2",
+    "runs/task2_final/test_predictions/return_b0.5_h5_17.npz": "6a5a1817b33dad19c4aa41d84f93300102150b832c6ee315e89fd5b2fe294661",
+    "runs/task2_final/test_predictions/return_b0.5_h5_42.npz": "363113f12afcb46c1c1240742b0a38e35a429b5ac649b020c75fd4346a30dfb1",
+    "runs/task2_final/test_predictions/return_b0.5_h5_73.npz": "5b4edf3d15f928c260425719869fa629122cc73ded9cb345e6156774ffccee2a",
+    "runs/task2_final/test_predictions/seconds_b0.5_h5_17.npz": "87aaf9f4b2e060bf7434d542dcba9824ac6662bef09482995d984bafbcf50952",
+    "runs/task2_final/test_predictions/seconds_b0.5_h5_42.npz": "bd847be2d8c857a3dc6772289473333a0361acaa40a585ca3497cbbc0a923897",
+    "runs/task2_final/test_predictions/seconds_b0.5_h5_73.npz": "4039979bc772b472bef80157ee5803366adc483cbb4febf389136afe3c55d279",
+    "runs/task2_final/test_predictions/sft_17.npz": "39b42ff8eae2167ff14f9186956a63f9cecd9a04be73a597def06a6d38c75205",
+    "runs/task2_final/test_predictions/sft_42.npz": "697adc36516b023420a9246298aa710ff5e64195e987e26c139393d67272edc7",
+    "runs/task2_final/test_predictions/sft_73.npz": "aa74b112d57e25cd4f34f93c37fc011becd234dfd1efae9b2313cb0ba15d1616"
+  },
+  "frozen_sha256": "c59eda3386e6c4bb3fd58a6a843f69d2b909ed6e59b702e4d7d53cdd472cea56",
+  "test_labels_constructed": false,
+  "queries": 2770,
+  "users": 266,
+  "resources": {
+    "seconds": 12.976358300016727,
+    "rss_mib_at_end": 1436.5546875,
+    "cuda_peak_allocated_mib": 120.94482421875
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "adapter_fits": 24,
+  "adapter_recorded_seconds": 30.49058410001453,
+  "cache_recorded_seconds": 27.2429175999132,
+  "rm_search_seconds": 6.301365699968301,
+  "rm_trials": 4,
+  "rm_extra_diagnostic_fits": 2,
+  "new_sft_fits": 0,
+  "frozen_sft_reused": 3,
+  "rm_error_correlation": [
+    [
+      1.0,
+      0.9979583999982679,
+      0.9979181307855478
+    ],
+    [
+      0.9979583999982679,
+      1.0,
+      0.9978964019042141
+    ],
+    [
+      0.9979181307855478,
+      0.997896401904214,
+      1.0
+    ]
+  ],
+  "full_single_rm_mse": [
+    0.05997474864125252,
+    0.05972212180495262,
+    0.05990467220544815
+  ],
+  "ce_relative_gain_percent": 28.54388532887051,
+  "primary_relative_percent": -0.7408979713510622,
+  "rm_reduction_from_constant_percent": 66.21714320446867,
+  "technical_failures": [
+    "Initial preparation interrupted after approximately350s CPU: repeated decompression of catalog inside per-row loop; corrected before any fit",
+    "Two GPU forecast attempts failed due Windows host commit; fixed by separate cache processes",
+    "Repeat fallback MemoryError corrected before labels; all22 earlier forecasts byte-identical"
+  ],
+  "budget_limitations": "Recorded times omit failed attempts, preparation, ablation fits, orchestration and prior GPT-2 training. These are incremental stage timings, not full research wall time."
+}

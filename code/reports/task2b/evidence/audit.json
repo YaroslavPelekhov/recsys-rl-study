@@ -1,0 +1,9 @@
+{
+  "source_sha256": "eed9cbd094af1e189507d2f8132a0dc9653b90e65480125c7cdccd601e0592d1",
+  "canonical_rows_sha256": "30fab57e8e578d9f94ca5e91e06d17502a017987582682dbfc2908ec36d54dc8",
+  "retained_rows": 5130518,
+  "raw_columns": 6,
+  "disjoint_from_previous": true,
+  "future_mutations": 62,
+  "labels_opened": false
+}

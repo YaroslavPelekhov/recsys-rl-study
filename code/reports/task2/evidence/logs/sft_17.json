@@ -1,0 +1,50 @@
+{
+  "trajectory": [
+    {
+      "update": 1500,
+      "train_ce_last_batch": 7.454944610595703,
+      "search_ndcg": 0.010877191372010452
+    },
+    {
+      "update": 3000,
+      "train_ce_last_batch": 7.042911648750305,
+      "search_ndcg": 0.014525894396620236
+    },
+    {
+      "update": 4500,
+      "train_ce_last_batch": 6.347735404968262,
+      "search_ndcg": 0.013165872485544261
+    },
+    {
+      "update": 6000,
+      "train_ce_last_batch": 6.128750443458557,
+      "search_ndcg": 0.013859115051176655
+    },
+    {
+      "update": 7500,
+      "train_ce_last_batch": 6.517047762870789,
+      "search_ndcg": 0.012307713936722753
+    },
+    {
+      "update": 9000,
+      "train_ce_last_batch": 6.490009546279907,
+      "search_ndcg": 0.012374400192346837
+    },
+    {
+      "update": 10500,
+      "train_ce_last_batch": 5.775507926940918,
+      "search_ndcg": 0.013368717027105818
+    },
+    {
+      "update": 12000,
+      "train_ce_last_batch": 6.054402232170105,
+      "search_ndcg": 0.012945289699776728
+    }
+  ],
+  "parameters": 2700800,
+  "resources": {
+    "seconds": 233.35798629996134,
+    "rss_mib_at_end": 1259.66796875,
+    "cuda_peak_allocated_mib": 286.12109375
+  }
+}

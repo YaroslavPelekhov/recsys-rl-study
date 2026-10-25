@@ -1,0 +1,7 @@
+{
+  "base_document_sha256": "3031426bcd847c7482508124f5e0fe64914a7e197fdf0779e019960a46adb28e",
+  "amendment_sha256": "82b45cedff62d695dc3dace4f71e58b20a16e493da28df70bb3eadabef09b40a",
+  "sample_sha256": "5d399901135390648a2945ded5fe216a4972d2ac646a299a1542365f2653e6a3",
+  "test_opened": false,
+  "pilot_completed_rl_trials": 9
+}

@@ -1,0 +1,30 @@
+{
+  "trials": [
+    {
+      "depth": 4,
+      "trees": 392,
+      "calibration_mse": 0.030844936686778367
+    },
+    {
+      "depth": 6,
+      "trees": 350,
+      "calibration_mse": 0.030589189693734406
+    },
+    {
+      "seed": 42,
+      "depth": 6,
+      "trees": 393,
+      "calibration_mse": 0.030452737225311652
+    },
+    {
+      "seed": 73,
+      "depth": 6,
+      "trees": 392,
+      "calibration_mse": 0.03046879859809257
+    }
+  ],
+  "selected_depth": 6,
+  "seconds": 6.301365699968301,
+  "train": 106850,
+  "calibration": 18844
+}

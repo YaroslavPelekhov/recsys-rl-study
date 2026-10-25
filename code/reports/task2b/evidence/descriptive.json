@@ -1,0 +1,47 @@
+{
+  "status": "descriptive_post_test_no_model_change",
+  "explanation": "Frozen duration diagnostic used pre200 item metadata with unknown=0. This audit uses train-only median through269; no policy/RM/candidate change.",
+  "methods": {
+    "continue_ce": {
+      "duration270": 189.2183380126953,
+      "missing200": 0.13193653427324434
+    },
+    "copy_ce": {
+      "duration270": 188.92994689941406,
+      "missing200": 0.13179990782211215
+    },
+    "copy_fixed": {
+      "duration270": 197.650146484375,
+      "missing200": 0.15837632810599606
+    },
+    "gated": {
+      "duration270": 189.05960083007812,
+      "missing200": 0.13209048862887937
+    },
+    "joint": {
+      "duration270": 189.041015625,
+      "missing200": 0.13205023584137385
+    },
+    "popularity": {
+      "duration270": 135.0,
+      "missing200": 0.0
+    },
+    "repeat": {
+      "duration270": 201.58462524414062,
+      "missing200": 0.17418097404665436
+    },
+    "repeat_head": {
+      "duration270": 191.95993041992188,
+      "missing200": 0.10335506874055317
+    },
+    "reward_only": {
+      "duration270": 188.90521240234375,
+      "missing200": 0.13186197727193671
+    },
+    "sft": {
+      "duration270": 186.42774963378906,
+      "missing200": 0.11490959787180229
+    }
+  },
+  "length_sha256": "981df4a4476172c9838e2f7d37c805373802caf153e82a6af9c604ae50997bcb"
+}

@@ -1,0 +1,14 @@
+{
+  "inputs": {
+    "paper/task2/article.tex": "a7b7e64f24ce64997d3666f000a60886814d08d2df2d3fa407475674b2d9396c",
+    "paper/task2/numbers.tex": "b6b0f71f9bc1eb81dc87ad60150eb5e9831565338b648df0b8e629ad58903b69",
+    "paper/task2/figures/reward_audit.pdf": "6ef94f42618004cf2ca91738852c0d930345de810b2b087d0b5fb9a7fe11df20",
+    "paper/task2/figures/rollouts.pdf": "8ebcd38140ff5915a5923da6b0bb9396f2aa26b609606914c10f05009a46400c",
+    "paper/task2/figures/sft_learning.pdf": "c755b1b656d16e420786bdf3630d287f2826ac8d9fd3a7dbc97e4c6966574646",
+    "paper/task2/figures/tradeoff.pdf": "305c30098355985f2309a4d9ef48e1c0cef8475ec2f1673a2a9b5576d3f48b4c"
+  },
+  "pdf_sha256": "a74c066cdec9503f29687e659a9f6b82e79fe3e53e772708bdc8c645816d9bab",
+  "passes": 2,
+  "overfull_boxes": 0,
+  "undefined_references": 0
+}

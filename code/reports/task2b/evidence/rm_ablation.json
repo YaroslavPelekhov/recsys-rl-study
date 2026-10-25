@@ -1,0 +1,19 @@
+{
+  "state_only": {
+    "trees": 302,
+    "development_mse": 0.05769184095640845
+  },
+  "item_only": {
+    "trees": 48,
+    "development_mse": 0.1682465897225119
+  },
+  "ensemble": {
+    "development_mse": 0.054131258042424184
+  },
+  "constant": {
+    "development_mse": 0.17110664371840567
+  },
+  "last20": {
+    "development_mse": 0.1569126849874484
+  }
+}

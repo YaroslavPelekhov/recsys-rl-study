@@ -1,0 +1,33 @@
+{
+  "labels_opened": false,
+  "model_or_settings_changed": false,
+  "issues": [
+    "CUDA host commit during combined query preparation and inference; caches computed in separate processes",
+    "Repeat baseline allocated full catalog list even when fill count was zero; bounded top20 fallback is exactly equivalent for top10"
+  ],
+  "prediction_sha_before": {
+    "continue_ce_17.npz": "c6cefd0e98c53afdaff0fae244ca59aa8237144d57e369ceb9db1f00e554c449",
+    "continue_ce_42.npz": "8259ffb59e6882ad1ce43e61dd5fca1754c8efd98f914bcf78154b1000de0ad0",
+    "continue_ce_73.npz": "ed2ea11133f862a34b4a1cd7ada0126acf16234616b4e99f39e9c5b69e92a171",
+    "copy_ce_17.npz": "b721346d425ba78fb0210559ccf7f85568419b5458612a1835e13ee8c647bc57",
+    "copy_ce_42.npz": "bd1b55552d259e976d835e54a8afbf0faed455fa10184f99c381f1fddcc145aa",
+    "copy_ce_73.npz": "f885df6873f3406489041b467b8b7ddfa1159fd46f3c0df1a8c5c8d1f47a586a",
+    "copy_fixed_17.npz": "0050a6a857ef657063727fc6bc3248e1a8d45d36f3a094a705b4e575407515a4",
+    "copy_fixed_42.npz": "32530eda9a187fb29d833be31a21c5a19e53415a7c20b84b427c87a0c3b16704",
+    "copy_fixed_73.npz": "3ac35ef09fb60612cb623b26af1d43040f951bf892b1fe71034dc74bce3ea370",
+    "gated_17.npz": "ae15f040709a6add1e66bc92e0820443eadd77d36ee621b39e696338a896f693",
+    "gated_42.npz": "ed825feaf5409015b81a9d8d46e7321a3395c46ae9ec05c60ea85187eaf99231",
+    "gated_73.npz": "05bad37a6084b08f5d64fbe61109b16ad0ae1401bf30e23fcf7aa5bd53161f57",
+    "joint_17.npz": "9b6ea485b0462f2cf634a6ea26c86e7e60ee4e62cbb8e5050fc8dee14af89d61",
+    "joint_42.npz": "32037c0920ee7f78b933f5de8e71978e4dbe08376a898fed79d8277753d46acf",
+    "joint_73.npz": "976743a95f89fca7e1bda02fb92376ad9e28ef3f01f609cbb6da033ff38e231b",
+    "repeat.npz": "62de0da62c930227192f9ab629400d7564e7fcf98a167088be1b969376388675",
+    "reward_only_17.npz": "bcdb0b5ef3bfe3b12684ebb4cd3b2187de088993a89da0b9156b776559b12de0",
+    "reward_only_42.npz": "4e23fd08858eca80baf11b9357cffcdbe477f4b38e857254e0556c2805bfb3de",
+    "reward_only_73.npz": "a8e9af65c03f75905a66aa91d05b96d5044da50d7693e016ffe1d74655612b6a",
+    "sft_17.npz": "722cf14cbba361a571a9ea30686e9075a4e1d94edca870f57dc92efe760500d2",
+    "sft_42.npz": "6b8680062c26dae5d0abf304fca695fec7da36e551137e85bfe648c265b16610",
+    "sft_73.npz": "ee2af3b41a0432eced942b1f4522e71081b8293721e2d31a0c04d5b76636a733"
+  },
+  "previous_forecasts_unchanged": true
+}

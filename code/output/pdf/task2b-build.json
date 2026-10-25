@@ -1,0 +1,14 @@
+{
+  "inputs": {
+    "paper/task2b/article.tex": "d17a93ee42a6903cba9108166437d70798eb4b76a61a275bfc33d126f6fa5b56",
+    "paper/task2b/numbers.tex": "b49595dd24524c52975c398ae74c965a0f467bef7d90002562ef7e6229c35e2f",
+    "paper/task2b/ranking.tex": "961d9611690dca2fa6b7e91f39ffb69f730d811b70380a3f68fb1aba57184289",
+    "paper/task2b/figures/effects.pdf": "5142788a72a94caa11c8b6b615d029fd5d313066148585140e2d8b647a263272",
+    "paper/task2b/figures/reward.pdf": "dcbf59bf8b5ded5520381c2ab22d23d77dc5f0e3bac934d98df291d7a4f867a8",
+    "paper/task2b/figures/tradeoff.pdf": "652b41eebcfac600dfae3943aee4b4e3d77ccb64420e39fc42eb7dd7c0369165"
+  },
+  "pdf_sha256": "3a4653943de6ddb8c2e1609afb07ac514c2bfd451a246f540750799835897579",
+  "passes": 2,
+  "overfull_boxes": 0,
+  "undefined_references": 0
+}

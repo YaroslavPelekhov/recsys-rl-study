@@ -1,0 +1,20 @@
+{
+  "trajectory": [
+    {
+      "update": 1500,
+      "train_ce_last_batch": 7.4865381717681885,
+      "search_ndcg": null
+    },
+    {
+      "update": 3000,
+      "train_ce_last_batch": 6.935761213302612,
+      "search_ndcg": null
+    }
+  ],
+  "parameters": 2700800,
+  "resources": {
+    "seconds": 58.092205599998124,
+    "rss_mib_at_end": 1494.484375,
+    "cuda_peak_allocated_mib": 587.02197265625
+  }
+}

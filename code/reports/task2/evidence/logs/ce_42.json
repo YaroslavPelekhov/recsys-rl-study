@@ -1,0 +1,9 @@
+{
+  "updates": 120,
+  "last_ce": 1.701041340827942,
+  "resources": {
+    "seconds": 2.358494599990081,
+    "rss_mib_at_end": 1496.484375,
+    "cuda_peak_allocated_mib": 587.02197265625
+  }
+}

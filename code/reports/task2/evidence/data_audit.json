@@ -1,0 +1,14 @@
+{
+  "rows": 5736029,
+  "users": 1200,
+  "catalog": 16384,
+  "train_rows": 4908461,
+  "train_chunks": 76534,
+  "supervised_tokens": 2519395,
+  "rm_examples": 855792,
+  "search_queries": 6077,
+  "search_users": 493,
+  "search_catalog_coverage": 0.5754484120454172,
+  "ratio_over_100": 24666,
+  "train_npz_bytes": 21114573
+}

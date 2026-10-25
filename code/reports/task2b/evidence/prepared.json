@@ -1,0 +1,23 @@
+{
+  "train": 106850,
+  "calibration": 18844,
+  "policy": 31355,
+  "development": 6077,
+  "catalog": 270376,
+  "head": 16384,
+  "state_features": [
+    "log_history",
+    "ratio5",
+    "ratio20",
+    "ratio64",
+    "ratio_last",
+    "completed64",
+    "skip64",
+    "head_share",
+    "unique_share",
+    "log_gap",
+    "hour_sin",
+    "hour_cos",
+    "organic_share"
+  ]
+}

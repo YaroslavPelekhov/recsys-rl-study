@@ -1,0 +1,31 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text_chars": 4800,
+      "outside_margins": 0
+    },
+    {
+      "page": 2,
+      "text_chars": 3737,
+      "outside_margins": 0
+    },
+    {
+      "page": 3,
+      "text_chars": 4126,
+      "outside_margins": 0
+    },
+    {
+      "page": 4,
+      "text_chars": 4312,
+      "outside_margins": 0
+    },
+    {
+      "page": 5,
+      "text_chars": 2397,
+      "outside_margins": 0
+    }
+  ],
+  "page_count": 5,
+  "pdf_sha256": "fefef1574b381c0d0751eabf930c3cc66514fe391ee1636b1317aaee5b74ebc2"
+}

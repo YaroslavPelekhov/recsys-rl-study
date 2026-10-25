@@ -1,0 +1,90 @@
+{
+  "files": {
+    "docs/TASK2_PROTOCOL.md": "3031426bcd847c7482508124f5e0fe64914a7e197fdf0779e019960a46adb28e",
+    "docs/TASK2_AMENDMENT_01.md": "82b45cedff62d695dc3dace4f71e58b20a16e493da28df70bb3eadabef09b40a",
+    "src/rec/task2_data.py": "13b22e8c6635956601f7959ad07bf989df0c77cfbc0a2f5a2cd792b33cce156f",
+    "src/rec/task2_metrics.py": "29e54d21a7e82eae0350d0d642d5fb7f2db0534fbd19a1677648b62f6112887b",
+    "src/rec/task2_models.py": "875f477dc3a3febf9efc5d553766804a076482a10fbc142f4fa864036a0df2f8",
+    "scripts/research_task2.py": "400be4c2bcd26059c756927efb16b16aab9c3fce19850f10be3ad11a5447203a",
+    "scripts/evaluate_task2.py": "aeb5dd9c95bcf9bd7f5bde1e00d39d1942781efae370ac59d7ee84f45e1397f9",
+    "scripts/audit_task2.py": "cc1385c4322a5d27c21f54941c48a79cb295dc9980d69bb85379fb483ec79ee0",
+    "runs/task2_final/rl_recipe.json": "469c0af537538aad444fcaa8c24098cd51bfb6194df2fd06a05bd7ebbca031ae",
+    "runs/task2_final/sample.json": "5d399901135390648a2945ded5fe216a4972d2ac646a299a1542365f2653e6a3",
+    "runs/task2_final/catalog.npz": "18d8b8801cff9db23f8a2e76a3b66ec0e98ab9c5536b562c051036c49824e86d",
+    "runs/task2_final/protocol.json": "fad96dfa6e4fcc78d19666a715a588df456776045c4a7d3eda505bd359b46274",
+    "runs/task2_final/train.npz": "6b7d87f1213a815c5be50f2d4bfdac481f3ad81c9877541c949fdc4eee0d91e1",
+    "runs/task2_final/rm_contexts.npy": "27e10971a0d25369e740c682fa237c671cd04c103dc760fbdf66f45555753b21",
+    "runs/task2_final/search_trials.json": "69d1b484a6fab81d8506f7db5f1b920252807176ee5dedd31f597fe6660ae958",
+    "runs/task2_final/models/anchored_b0.02_h5_17.pt": "b7907b4ab3f3ac4b6cbf8bad1388f4826d4e584f8964a96cb7360ff9949cd0bf",
+    "runs/task2_final/models/anchored_b0.1_h5_17.pt": "8a7097442042c477c2ba084deb096538cb5fd2fc27abe6765939ec2c1e5b5fec",
+    "runs/task2_final/models/anchored_b0.1_h5_42.pt": "8b842f7d2a280cbab6a5a007b552924e6b9df7d7e6851e00ee272427adca9441",
+    "runs/task2_final/models/anchored_b0.1_h5_73.pt": "85f6817577a0726ca779692e1dc17bc0dbc51853754b6b038d9da8aae3a526d5",
+    "runs/task2_final/models/anchored_b0.5_h5_17.pt": "f62c62003f1a1d418ef774b0ae223f8e64439c0a6ee7974fb43693ca1df7e141",
+    "runs/task2_final/models/ce_17.pt": "5cedcab01a9721f7c3e58e8e30b42211878fe03bacc2079771e2817e22180dab",
+    "runs/task2_final/models/ce_42.pt": "ae0640cdd530e42ced63889d53da5a7e418e56f61da227205898e07750e1d60e",
+    "runs/task2_final/models/ce_73.pt": "4fcaabee0c8cd6a83c6c50a7c5038da621d76c7192c09eef4b661d490e414fb5",
+    "runs/task2_final/models/ensemble_b0.02_h5_17.pt": "ff771a95e9022171484a5571c840d8e0f757c8039f8d5ddc411c8008d0cb03fd",
+    "runs/task2_final/models/ensemble_b0.1_h1_17.pt": "618eb73bd1f52c4e45f4bfed9c281f1558540f79002bcc839e12af966b3b4b39",
+    "runs/task2_final/models/ensemble_b0.1_h1_42.pt": "c6ed43df1a190d92b559aa2c6ae5cf6bbea646aae2b8a73e3370196a05c600cb",
+    "runs/task2_final/models/ensemble_b0.1_h1_73.pt": "6af028c57a9d55f3b6c4162cdd96af2bab4a4a5be363e4d6d5d700a6fac2d543",
+    "runs/task2_final/models/ensemble_b0.1_h5_17.pt": "82341800c457638c98b93fdd10503cce38e27d567e4482eeef1bfb38ed7d95e5",
+    "runs/task2_final/models/ensemble_b0.1_h5_42.pt": "bc6d5ab995f3997c609e4efa01f903020d2c344caae79eba7bf1d6a5442d52a3",
+    "runs/task2_final/models/ensemble_b0.1_h5_73.pt": "9fefd71d6ce8282577e0ca20df15f67a5a19966e504791a436b452a75461343f",
+    "runs/task2_final/models/ensemble_b0.5_h5_17.pt": "9c71f8fe53c2aea85aa70182824b5a47adc1a60a5385fe0e1e530e92eba14cbe",
+    "runs/task2_final/models/ratio_b0.02_h5_17.pt": "5a1d22b7393ccc6854e96be75301a268aeabe6c65306b68c75c956f93682ca37",
+    "runs/task2_final/models/ratio_b0.1_h5_17.pt": "e287bcb1067121bdb7f394af5bcc10b8eeb58eb7fbbe5369328fdc7570086a4a",
+    "runs/task2_final/models/ratio_b0.1_h5_42.pt": "65292c24ac7a5a9752d22e9246bf25561181610443990f06892744c8acb3df5e",
+    "runs/task2_final/models/ratio_b0.1_h5_73.pt": "4e9c9491f34ea10d648f8b042605cd381d7472d18fef082673109a1959f5196b",
+    "runs/task2_final/models/ratio_b0.5_h5_17.pt": "3d243c1d93529c41688ae2907d07ad708641c57b42de2cc744c6182fd293985d",
+    "runs/task2_final/models/return_b0.02_h5_17.pt": "7009683a55914d3b52679822d9593059c1112ceae0176bfb16db0eb6c329ff2c",
+    "runs/task2_final/models/return_b0.1_h5_17.pt": "f45d666bf44903add8caa665790c0ac1537de40d312c2d599013c8ced12d2d83",
+    "runs/task2_final/models/return_b0.5_h5_17.pt": "ad853370ee97bc4edc85a53a982cfcf6612cba337e12a8149b6c894bbeb1dfbf",
+    "runs/task2_final/models/return_b0.5_h5_42.pt": "3fe35718505fabc7934c0418c9461a5d4aaec5dcf7511d305a5076058538da38",
+    "runs/task2_final/models/return_b0.5_h5_73.pt": "68f0279ad2ba3cff5f7ef6600c4eaf0d65fe69638456d5fcee68e4fc6e0c3d07",
+    "runs/task2_final/models/rm_101.pt": "96d481e64bd2d6cf7db9c8b6c899846d4a4d62832ffcfc8891735cdaef08aeb4",
+    "runs/task2_final/models/rm_17.pt": "80d2d0e1dba26bc32800cd628441f23e78335cc3b2863eaba87da2bad9631946",
+    "runs/task2_final/models/rm_42.pt": "437cb64346eaec0f883107f1088eaa9ff94a07be3fc2e8e65fb6ccfd80a4451d",
+    "runs/task2_final/models/rm_73.pt": "d5264d61e68a16ec6e98812e64cafda3b4e083da0b01c5d08b24084df1c0ff91",
+    "runs/task2_final/models/seconds_b0.02_h5_17.pt": "258982a3c8df327a708c24e880749cdf7521d7f231bd2f82288633d756d04ac0",
+    "runs/task2_final/models/seconds_b0.1_h5_17.pt": "06b1a9ab9d8bb789329a460264b0b0d9091becba5360136a1cdde00f3fb5ef82",
+    "runs/task2_final/models/seconds_b0.5_h5_17.pt": "9f3c3ce8545d176c59ec206b2ea487ff12dc3721c4ce4a00230b0cf7121fc601",
+    "runs/task2_final/models/seconds_b0.5_h5_42.pt": "65ac4c3d9d6c5a20e23d16d7b6aaef0306889f8d69de528d9cc1bdea6541973a",
+    "runs/task2_final/models/seconds_b0.5_h5_73.pt": "c7a95bad7aa4d773f15de2e10b5b59a1dd7e1830667076d08be74cdff697e9d0",
+    "runs/task2_final/models/sft_17.pt": "96b0034116354e96b2287036628f0eb18cd5dbd9905cd1fcfe25d0f860ba060b",
+    "runs/task2_final/models/sft_42.pt": "3682a874ad137c6fbd422af5ccea2a213e6ceda1b30efd5da58e1e8f946fb22b",
+    "runs/task2_final/models/sft_73.pt": "92843499a0baadeae05f675c5b378543fb67ed87bf0ddc4bb571b6d9fc9de42b"
+  },
+  "test_labels_constructed": false,
+  "configs": [
+    [
+      "anchored",
+      0.1,
+      5
+    ],
+    [
+      "ensemble",
+      0.1,
+      1
+    ],
+    [
+      "ensemble",
+      0.1,
+      5
+    ],
+    [
+      "ratio",
+      0.1,
+      5
+    ],
+    [
+      "return",
+      0.5,
+      5
+    ],
+    [
+      "seconds",
+      0.5,
+      5
+    ]
+  ]
+}

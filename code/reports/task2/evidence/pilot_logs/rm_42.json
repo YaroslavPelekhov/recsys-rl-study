@@ -1,0 +1,37 @@
+{
+  "trajectory": [
+    {
+      "update": 200,
+      "train_bce_last_batch": 0.46782562136650085
+    },
+    {
+      "update": 400,
+      "train_bce_last_batch": 0.4718949794769287
+    },
+    {
+      "update": 600,
+      "train_bce_last_batch": 0.43594086170196533
+    },
+    {
+      "update": 800,
+      "train_bce_last_batch": 0.4298573136329651
+    }
+  ],
+  "search_metrics": {
+    "n": 6077,
+    "ratio_mse": 0.16914896841587732,
+    "ratio_mae": 0.33648419773957977,
+    "ratio_bias": 0.044463518988883614,
+    "ratio_ece10": 0.07064568249072578,
+    "return24_mse": 0.12108770927853335,
+    "return24_mae": 0.23343503534850865,
+    "return24_bias": -0.014840297265628391,
+    "return24_ece10": 0.05128973835084011,
+    "return24_auc": 0.56188318386897
+  },
+  "resources": {
+    "seconds": 2.011422700015828,
+    "rss_mib_at_end": 1315.37109375,
+    "cuda_peak_allocated_mib": 27.16357421875
+  }
+}

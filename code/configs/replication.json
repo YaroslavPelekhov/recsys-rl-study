@@ -1,0 +1,9 @@
+{
+  "n_users": 10000,
+  "sample_seed": 2027,
+  "model_seeds": [17, 42, 73],
+  "iterations": 350,
+  "depths": [5, 7],
+  "search_steps": 2,
+  "threads": 12
+}

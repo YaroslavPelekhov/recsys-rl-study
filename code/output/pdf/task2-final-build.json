@@ -1,0 +1,17 @@
+{
+  "pdf_sha256": "fefef1574b381c0d0751eabf930c3cc66514fe391ee1636b1317aaee5b74ebc2",
+  "inputs": {
+    "paper/submission_task2/article.tex": "b39c7c28d964812044c846b7862b72844398adf36ab3805f25e4f51137c6107e",
+    "paper/submission_task2/cycle_a.tex": "fc80246b623595a8f422136a94125fdaaf56ba6c8d49f2e611b12b989cebfc51",
+    "paper/submission_task2/cycle_b.tex": "3d862b21a4e39ae8422c23a6ac8554607cd422c63beba778af5ffeef956fe654",
+    "paper/submission_task2/numbers.tex": "d0b927e015db1593cc653344caf483af99f6fdf1ea2086d1820d6b0fc40ef548",
+    "paper/submission_task2/figures/cycle_a_rollouts.pdf": "8ebcd38140ff5915a5923da6b0bb9396f2aa26b609606914c10f05009a46400c",
+    "paper/submission_task2/figures/cycle_a_search.pdf": "305c30098355985f2309a4d9ef48e1c0cef8475ec2f1673a2a9b5576d3f48b4c",
+    "paper/submission_task2/figures/cycle_b_effects.pdf": "5142788a72a94caa11c8b6b615d029fd5d313066148585140e2d8b647a263272",
+    "paper/submission_task2/figures/cycle_b_reward.pdf": "dcbf59bf8b5ded5520381c2ab22d23d77dc5f0e3bac934d98df291d7a4f867a8",
+    "paper/submission_task2/evidence_inputs.json": "55d9c277456ca0e1831579aaa95d846ea59eee78d06214f2f4a87e87279f04fa"
+  },
+  "passes": 2,
+  "overfull_boxes": 0,
+  "undefined_references": 0
+}
